@@ -1,0 +1,2 @@
+951244628;Hernan;Lara;Estadistico;Mecatronica;Tiempo Parcial;
+1002546202;Joel;Rojas;Ingeniero;Sistemas;Medio Tiempo;

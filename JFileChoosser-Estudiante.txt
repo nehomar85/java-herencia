@@ -1,0 +1,5 @@
+560866;Nehomar;Herrera;Sistemas;Bogotá DC;8;
+16954777;Miguel;Rojas;Administracion;Mosquera;7;
+951951;preub;tres;Sistemas;Mosquera;2;
+789456;uhjb;fhb;contabiliada;Bogotá DC;1;
+595959;yoka;uno;SISTEMAB;Mosquera;3;
